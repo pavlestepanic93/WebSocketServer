@@ -96,9 +96,7 @@ namespace WebSocketServer.Middleware
 
 
         }
-
-       
-
+        
         private async Task SendConnID(WebSocket socket, string connID)
         {
             var buffer = Encoding.UTF8.GetBytes("ConnID: " + connID);
