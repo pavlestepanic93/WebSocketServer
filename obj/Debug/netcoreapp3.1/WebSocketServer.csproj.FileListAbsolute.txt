@@ -18,3 +18,5 @@ E:\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.Stati
 E:\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
 E:\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
 E:\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+E:\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
